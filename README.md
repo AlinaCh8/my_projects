@@ -2,3 +2,4 @@
 - expenses - анализ долей затрат одних продуктов ОКПД для других.  
 - [Распознавание изображений на Python с помощью TensorFlow и Keras](https://evileg.com/ru/post/619/)
 - [Загрузка данных](https://machinelearningmastery.com/how-to-load-large-datasets-from-directories-for-deep-learning-with-keras/)
+- [наборы изображений](https://ru.qaz.wiki/wiki/List_of_datasets_for_machine-learning_research)
